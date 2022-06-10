@@ -1,0 +1,9 @@
+dependencies:
+- name: api
+  repository: ""
+  version: 1.x.x
+- name: mysql
+  repository: ""
+  version: 1.x.x
+digest: sha256:d44399b3c9616e5c0a2fd060273fe99b437b968760e6b27dba3d77b1ba6f9c72
+generated: "2022-06-09T08:01:02.17351797+01:00"
